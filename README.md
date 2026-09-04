@@ -35,3 +35,21 @@
 - Added bin/ to .gitignore to avoid tracking compiled files.
 
 ---
+
+## Date: 04-09-2026
+
+**Today's Work:**
+- Completed Week 3 Java Control Flow class problems.
+- Completed five Category C assignment problems.
+- Organized the programs under the ControlFlow topic.
+- Tested all programs successfully.
+
+**Next Session Plan:**
+- Complete the problems for the next session.
+- Continue following the GitHub project structure.
+
+**Issues Faced:**
+- No major issues faced.
+- Generated .class files were removed and bin/ was kept ignored.
+
+---

@@ -70,3 +70,21 @@
 - Generated .class files were removed and bin/ was kept ignored.
 
 ---
+
+## Date: 11-09-2026
+
+**Today's Work:**
+- Completed Week 5 Java Arrays and Methods class problems.
+- Completed Week 5 assignment problems.
+- Organized the programs under the ArraysAndMethods topic.
+- Tested all programs successfully.
+
+**Next Session Plan:**
+- Complete the problems for the next session.
+- Continue following the GitHub project structure.
+
+**Issues Faced:**
+- Faced access errors while working with private fields in the advanced problems.
+- Fixed the errors using getter methods while maintaining encapsulation.
+
+---

@@ -88,3 +88,21 @@
 - Fixed the errors using getter methods while maintaining encapsulation.
 
 ---
+
+## Date: 18-09-2026
+
+**Today's Work:**
+- Completed Week 6 Classes and Objects class problems.
+- Completed Week 6 assignment problems.
+- Organized the programs under the ClassesAndObjects topic.
+- Tested all programs successfully.
+
+**Next Session Plan:**
+- Complete the problems for the next session.
+- Continue following the GitHub project structure.
+
+**Issues Faced:**
+- Faced some access errors while working with private fields.
+- Fixed the errors using proper methods while maintaining encapsulation.
+
+---

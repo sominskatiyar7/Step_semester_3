@@ -106,3 +106,20 @@
 - Fixed the errors using proper methods while maintaining encapsulation.
 
 ---
+
+## Date: 25-09-2026
+
+**Today's Work:**
+- Completed Week 7 Encapsulation class problems.
+- Completed Week 7 assignment problems.
+- Organized the programs under the Encapsulation topic.
+- Tested all programs successfully.
+
+**Next Session Plan:**
+- Complete the problems for the next session.
+- Continue following the GitHub project structure.
+
+**Issues Faced:**
+- No major issues faced.
+
+---
